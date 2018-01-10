@@ -1,0 +1,37 @@
+Milestones,Jack,Hours,James,Hours,Anthony,Hours
+,Documentation,2,Documentation,2,Documentation,2
+,Workload,1,Workload,1,Workload,1
+,Risks,1,Risks,1,Risks,1
+,Code Design,3,Set up Github,1,Enemy design,3
+,Set up Trello,1,,,Attending meetings,2
+,Attending meetings,2,Attending meetings,2,Meeting minutes,2
+1st Assignment,,,,,Design docs,2
+,Player Ship,3,Github Management,3,Art,3
+,Enemy,1,Health Powerup,1,Wireframes,3
+,Attack,1,Level 0,1,Trello maintenance,1
+,Vertical slice,5,Vertical slice,5,Attending meetings,2
+,Attending meetings,2,Attending meetings,2,Meeting minutes,2
+,,,,,Design docs,2
+,,,,,Testing,3
+Prototype,,,,,Test logging,1
+,Main Menu,1,Github Managment,3,Fix suggesting,1
+,Pause Menu,3,Adds,3,Trello maintenance,1
+,Enemies,2,Power Ups,2,,
+,Attacks,2,,,Attending meetings,2
+,Attending meetings,2,Attending meetings,2,Meeting minutes,2
+,Levels ,1,Levels,1,Testing,3
+Alpha,Code Repair ,1,Code Repair ,1,Test logging,1
+,Code Repair,1,Github Management,3,Fix suggesting,1
+,All Enemies,2,Power Ups,2,Trello maintenance,1
+,All Attacks,2,Ship Upgrades,2,Attending meetings,2
+,Attending meetings,2,Attending meetings,2,Meeting minutes,2
+,High Scores,3,Code Repair ,1,Testing,3
+Beta,,,,,Test logging,1
+,Code Repair,4,Github Management,3,Fix suggesting,1
+,Attending meetings,2,Attending meetings,2,Trello maintenance,1
+,,,Code Repair ,1,Attending meetings,2
+,,,,,Meeting minutes,2
+,,,,,Testing,3
+Finished Game,,,,,Test logging,1
+Total hours,Total hours,50,Total hours,47,Total hours,60
+Total Project Hours,/ / / / / / / / / / / / / / / /,/ / / / / / / /,/ / / / / / / / / / / / / / / /,/ / / / / / / /,/ / / / / / / / / / / / / / / /,157
