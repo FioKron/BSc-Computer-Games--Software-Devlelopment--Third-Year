@@ -1,0 +1,11 @@
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\CFNDS.exe.config
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\CFNDS.exe
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\CFNDS.pdb
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\EntityFramework.dll
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\EntityFramework.xml
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\obj\Debug\CFNDS.csprojResolveAssemblyReference.cache
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\obj\Debug\CFNDS.csproj.CoreCompileInputs.cache
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\obj\Debug\CFNDS.exe
+C:\Users\James Moran\Documents\GitHub\BSc Computer Games (Software Development) Third Year\Software Systems Development\Prototypes\CFNDS\CFNDS\obj\Debug\CFNDS.pdb
