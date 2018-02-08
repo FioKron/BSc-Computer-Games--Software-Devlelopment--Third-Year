@@ -12,6 +12,7 @@ namespace CFNDS
     {
         public int BlogID { get; set; }
         public string Name { get; set; }
+        public string URL { get; set; }
 
         // As a blog consists of many Posts:
         // (virtual, so that this navigation

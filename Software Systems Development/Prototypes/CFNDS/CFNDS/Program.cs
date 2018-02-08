@@ -47,5 +47,13 @@ namespace CFNDS
     {
         public DbSet<Blog> BlogSet { get; set; }
         public DbSet<Post> PostSet { get; set; }
+        public DbSet<User> Users { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>()
+                .Property(User => User.DisplayName)
+                .HasColumnName("Display_Name");
+        }
     }
 }
