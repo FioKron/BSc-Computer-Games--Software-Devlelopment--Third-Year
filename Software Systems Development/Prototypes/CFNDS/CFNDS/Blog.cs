@@ -14,9 +14,9 @@ namespace CFNDS
         public string Name { get; set; }
         public string URL { get; set; }
 
-        // As a blog consists of many Posts:
+        // As a blog consists of many Posts
         // (virtual, so that this navigation
-        // property is lazily loaded)
+        // property is lazily loaded):
         public virtual List<Post> PostList { get; set; }
     }
 }

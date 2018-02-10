@@ -16,9 +16,9 @@ namespace CFNDS
 
         public int BlogID { get; set; }
 
-        // As Posts belong to a Blog:
+        // As Posts belong to a Blog
         // (virtual, so that this navigation
-        // property is lazily loaded)
+        // property is lazily loaded):
         public virtual Blog PostOwner { get; set; }
     }
 }

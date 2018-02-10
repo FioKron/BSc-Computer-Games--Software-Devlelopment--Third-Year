@@ -10,8 +10,6 @@ namespace CFNDS
     // Auto-generated code for a console application:
     class Program
     {
-
-
         static void Main(string[] args)
         {
             // Contains the posts for all of the blogs:
